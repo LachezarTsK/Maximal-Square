@@ -1,5 +1,3 @@
-package maximalSquare.dp_matrix;
-
 public class SolutionWithMatrix {
 
     public int maximalSquare(char[][] matrix) {
